@@ -1,2 +1,2 @@
-# Simple-Linear-Regression
-Repository for the implementation of a Simple Linear Regression algorithm
+# Multiple-Linear-Regression
+Repository for the implementation of a Multiple Linear Regression algorithm

@@ -4,7 +4,7 @@ from math import floor, log10
 
 
 
-class SimpleLinearRegression:
+class MultipleLinearRegression:
     def __init__(self, lr: float, tolerance: float, n_iterations: float, metric: str, method:str) -> None:
         '''
         '''
